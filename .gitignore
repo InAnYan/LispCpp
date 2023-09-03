@@ -1,0 +1,3 @@
+bin/*
+obj/*
+.emacs_saves/
